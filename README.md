@@ -1,4 +1,4 @@
-Naziv projekta: Among Us in space 
+SR: Naziv projekta: Among Us in space 
 
 Projekat na predmetu Računarska grafika na Matematičkom fakultetu. Rađen u jeziku C++ sa ciljem implementiranja osnovnih svojstava OpenGL biblioteke.
 
@@ -16,7 +16,7 @@ Za pomeranje lika:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project: Among Us in space
+EN: Project: Among Us in space
 
 Project for a Computer graphics course on Faculty of Mathematics, University of Belgrade. Its purpose was to showcase basics of OpenGL library using C++.
 
